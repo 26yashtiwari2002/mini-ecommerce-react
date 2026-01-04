@@ -26,6 +26,3 @@ https://mini-ecommerce-react-orpin.vercel.app/
 2. Run `npm install`
 3. Run `npm start`
 4. Open `http://localhost:3000` in the browser
-
-## Notes
-This project was created as part of a coding assignment to demonstrate basic React concepts such as component-based structure, state management, and API integration.
